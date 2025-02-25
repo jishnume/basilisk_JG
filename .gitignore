@@ -1,0 +1,3 @@
+# Added exceptions related to output file in c/c++
+*.out
+*.o
